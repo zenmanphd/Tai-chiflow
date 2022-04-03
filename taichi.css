@@ -1,0 +1,42 @@
+header {
+    background-color: rgba(126, 28, 28, 0.787);
+}
+nav {
+    font-size: 20px;
+    font-weight: bolder;
+}
+body { 
+    background-image: url(../taiji/munford.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+h1 {
+    color: rgb(247, 247, 252);
+    font-family: American Typewriter, serif;
+    font-size: 45px;
+    font-weight: bold;
+    text-align: left;
+} 
+h2, p {
+    color: rgb(247, 247, 252);
+    font-weight: bold;
+    font-family: American Typewriter, serif;
+    text-align: center;
+}
+div {
+    background-color: rgba(83, 98, 124, 0.61);
+    width: 500px;
+    border: 2px solid rgb(126, 28, 28);
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+}
+ul{
+    color: rgb(247, 247, 252);
+    font-weight: bold;
+    font-family: American Typewriter, serif;
+}
+a {
+    color: rgb(247, 247, 252);
+}
