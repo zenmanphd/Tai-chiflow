@@ -1,2 +1,2 @@
 # Tai-Chi-Flow
-A website for Tai Chi enthusiasts of all levels of expertise and commitment
+This website was created to educate and motivate fellow Tai Chi enthusiasts of all levels of expertise and commitment.
