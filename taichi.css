@@ -9,6 +9,17 @@ body {
     background-image: url('graffiti.jpg');
     background-size: cover;
     background-attachment: fixed;
+     animation: transitionIn 850ms;
+}
+@keyframes transitionIn {
+    from {
+        opacity: 0;
+        transform: rotateX(-10deg);
+    }
+    to {
+        opacity: 1;
+        transform: rotateX(0);
+    }
 
 }
 h1 {
