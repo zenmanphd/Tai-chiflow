@@ -43,6 +43,11 @@ div {
     padding: 20px;
     margin: auto;
 }
+.clip {
+    text-align: center;
+    width: 450px;
+    padding: 10px;
+}
 ul{
     color: rgb(247, 247, 252);
     font-weight: bold;
