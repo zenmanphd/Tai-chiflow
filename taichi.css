@@ -49,7 +49,7 @@ div {
     padding: 10px;
     overflow: hidden;
 }
-.iframe {
+.iframe-container iframe {
     border-radius: 20px;
 }
 ul{
