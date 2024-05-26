@@ -47,9 +47,10 @@ div {
     text-align: center;
     width: 450px;
     padding: 10px;
+    overflow: hidden;
 }
-.film {
-    border-radius: 2px;
+.frame {
+    border-radius: 20px;
 }
 ul{
     color: rgb(247, 247, 252);
