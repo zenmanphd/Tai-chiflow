@@ -53,4 +53,5 @@ a {
 }
 .vid{
     position: absolute;
+    z-index: -1;
 }
