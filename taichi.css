@@ -1,10 +1,4 @@
-header {
-    background-color: rgba(126, 28, 28, 0.787);
-}
-nav {
-    font-size: 20px;
-    font-weight: bolder;
-}
+
 body { 
      animation: transitionIn 850ms;
 }
@@ -56,4 +50,7 @@ ul{
 }
 a {
     color: rgb(247, 247, 252);
+}
+.vid{
+    position: absolute;
 }
