@@ -14,17 +14,17 @@ body {
 
 }
 header{
-    background-color: rgba(135, 17, 17, 0.603);
+    background-color: rgba(129, 24, 24, 0.516);
 }
 h1 {
-    color: rgb(247, 247, 252);
+    color: rgb(129, 24, 24);
     font-family: American Typewriter, serif;
     font-size: 45px;
     font-weight: bold;
     text-align: left;
 } 
 h2, p {
-    color: rgb(247, 247, 252);
+    color: rgb(129, 24, 24);
     font-weight: bold;
     font-family: American Typewriter, serif;
     text-align: center;
@@ -42,12 +42,12 @@ h2, p {
     border-radius: 20px;
 }
 ul{
-    color: rgb(247, 247, 252);
+    color: rgb(129, 24, 24);
     font-weight: bold;
     font-family: American Typewriter, serif;
 }
 a {
-    color: rgb(247, 247, 252);
+    color: rgb(129, 24, 24);
 }
 .wrapper{
     position: relative;
