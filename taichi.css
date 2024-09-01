@@ -14,7 +14,7 @@ body {
 
 }
 header{
-    background-color: rgba(184, 39, 39, 0.488);
+    background-color: rgba(111, 8, 8, 0.488);
 }
 h1 {
     color: rgb(247, 247, 252);
@@ -29,15 +29,10 @@ h2, p {
     font-family: American Typewriter, serif;
     text-align: center;
 }
-div {
+.iframe-container {
     background-color: rgba(83, 98, 124, 0.61);
-    width: 500px;
     border: 2px solid rgb(126, 28, 28);
     border-radius: 20px;
-    padding: 20px;
-    margin: auto;
-}
-.iframe-container {
     text-align: center;
     width: 450px;
     padding: 10px;
