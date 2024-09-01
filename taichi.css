@@ -6,9 +6,6 @@ nav {
     font-weight: bolder;
 }
 body { 
-    background-image: url('graffiti.jpg');
-    background-size: cover;
-    background-attachment: fixed;
      animation: transitionIn 850ms;
 }
 @keyframes transitionIn {
