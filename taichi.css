@@ -34,7 +34,6 @@ div {
     padding: 20px;
     margin: auto;
     position: relative;
-    overflow: hidden;
 }
 .iframe-container {
     text-align: center;
