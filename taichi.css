@@ -53,6 +53,7 @@ a {
 }
 .wrapper{
     position: relative;
+    overflow: hidden;
 }
 .vids{
     position: absolute;
