@@ -51,6 +51,9 @@ ul{
 a {
     color: rgb(247, 247, 252);
 }
+.wrapper{
+    position: relative;
+}
 .vids{
     position: absolute;
     z-index: -1;
