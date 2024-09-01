@@ -13,6 +13,9 @@ body {
     }
 
 }
+header{
+    background-color: rgba(184, 39, 39, 0.488);
+}
 h1 {
     color: rgb(247, 247, 252);
     font-family: American Typewriter, serif;
