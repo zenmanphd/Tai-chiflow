@@ -33,6 +33,8 @@ div {
     border-radius: 20px;
     padding: 20px;
     margin: auto;
+    position: relative;
+    overflow: hidden;
 }
 .iframe-container {
     text-align: center;
@@ -54,4 +56,6 @@ a {
 .vids{
     position: absolute;
     z-index: -1;
+    min-width: 100%;
+    min-height: 100%;
 }
