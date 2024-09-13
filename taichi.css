@@ -36,10 +36,11 @@ h2, p {
     border-radius: 20px;
     padding: 10px;
     width: 850px;
-    float: right;
+    height: auto;
 }
 .intro-container {
-    display: block;
+    display: flex;
+    flex-direction: column;
 }
 .iframe-container {
     background-color: rgba(83, 98, 124, 0.61);
