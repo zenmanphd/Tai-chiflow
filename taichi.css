@@ -35,6 +35,7 @@ h2, p {
     border: 2px solid rgb(126, 28, 28);
     border-radius: 20px;
     width: 850px;
+    float: right;
 }
 .iframe-container {
     background-color: rgba(83, 98, 124, 0.61);
