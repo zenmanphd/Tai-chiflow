@@ -37,6 +37,9 @@ h2, p {
     width: 850px;
     float: right;
 }
+.intro-container {
+    display: flex;
+}
 .iframe-container {
     background-color: rgba(83, 98, 124, 0.61);
     border: 2px solid rgb(126, 28, 28);
