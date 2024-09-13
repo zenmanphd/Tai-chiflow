@@ -39,7 +39,7 @@ h2, p {
     float: right;
 }
 .intro-container {
-    display: flex;
+    display: block;
 }
 .iframe-container {
     background-color: rgba(83, 98, 124, 0.61);
