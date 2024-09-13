@@ -30,7 +30,6 @@ h2, p {
     text-align: center;
 }
 .intro {
-    margin: right;
     background-color: rgba(83, 98, 124, 0.61);
     border: 2px solid rgb(126, 28, 28);
     border-radius: 20px;
@@ -42,6 +41,7 @@ h2, p {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    margin-left: auto;
 }
 .iframe-container {
     background-color: rgba(83, 98, 124, 0.61);
