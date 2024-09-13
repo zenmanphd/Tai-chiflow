@@ -47,6 +47,7 @@ h2, p {
     overflow: hidden;
     float: right;
     display: flex;
+    flex-direction: column;
 }
 .iframe-container iframe {
     border-radius: 20px;
