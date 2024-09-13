@@ -1,18 +1,4 @@
 
-body { 
-     animation: transitionIn 850ms;
-}
-@keyframes transitionIn {
-    from {
-        opacity: 0;
-        transform: rotateX(-10deg);
-    }
-    to {
-        opacity: 1;
-        transform: rotateX(0);
-    }
-
-}
 header{
     background-color: rgba(79, 3, 3, 0.493);
 }
