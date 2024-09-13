@@ -45,6 +45,7 @@ h2, p {
     width: 450px;
     padding: 10px;
     overflow: hidden;
+    float: right;
 }
 .iframe-container iframe {
     border-radius: 20px;
