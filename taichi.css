@@ -44,6 +44,7 @@ ul{
 }
 a {
     color: rgb(222, 236, 245);
+    font font-size: larger;
 }
 .wrapper{
     position: relative;
