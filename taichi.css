@@ -48,12 +48,19 @@ a {
     font font-size: larger;
 }
 .wrapper{
+    width: 100;
     position: relative;
     overflow: hidden;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-end;
+    box-sizing: border-box;
+}
+.wraper h1 {
+width: 100;
+margin: 0;
+padding: 0;
 }
 .vids{
     position: absolute;
