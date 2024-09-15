@@ -33,7 +33,7 @@ h2, p {
     padding: 10px;
     overflow: hidden;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 .iframe-container iframe {
     border-radius: 20px;
