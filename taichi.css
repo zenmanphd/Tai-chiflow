@@ -2,6 +2,7 @@
 header{
     background-color: rgba(79, 3, 3, 0.493);
     border-radius: 20px;
+    width: 100%;
 }
 h1 {
     color: rgb(244, 248, 251);
